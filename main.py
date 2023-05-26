@@ -32,7 +32,7 @@ async def texthandler(m: types.Message):
 			else:
 				pass
 			await asyncio.sleep(5)
- 
+ #ddadasdasd
 
 if __name__ == '__main__':
 	executor.start_polling(dp, skip_updates=True) # Запуск
